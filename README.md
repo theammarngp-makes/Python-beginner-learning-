@@ -93,4 +93,4 @@ MIT License (see LICENSE).
 Author
 Name: Mohammad Ammar 
 
-GitHub: https://github.com/theammarnpgp_makes
+GitHub: https://github.com/theammarnpgp-makes
