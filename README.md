@@ -12,7 +12,7 @@ No frameworks, no extra packages—just plain Python 3.
 ### Calculator — quick arithmetic one two numbers
 Folder: Calculator/
 
-#### Grade Checker — prints a grade from marks
+### Grade Checker — prints a grade from marks
 Folder: Grade-Checker/
 
 ### BMI Calculator — BMI from weight(kg) and height(m)
@@ -91,10 +91,10 @@ README.md
 For your Contribution in Beginner‑friendly project you are welcome.
 
 
-License
-MIT License (see LICENSE).
+#### License
+##### MIT License (see LICENSE).
 
-Author
-Name: Mohammad Ammar 
+#### Author
+##### Name: Mohammad Ammar 
 
-GitHub: https://github.com/theammarngp-makes
+#### GitHub: ###### https://github.com/theammarngp-makes
