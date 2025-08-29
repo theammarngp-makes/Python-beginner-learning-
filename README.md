@@ -8,26 +8,30 @@ a short README explaining what it does, how to run it, and an example
 
 No frameworks, no extra packages—just plain Python 3.
 
-Project Order
-Calculator — quick arithmetic one two numbers
+## Project Order
+### Calculator — quick arithmetic one two numbers
 Folder: Calculator/
 
-Grade Checker — prints a grade from marks
+#### Grade Checker — prints a grade from marks
 Folder: Grade-Checker/
 
-BMI Calculator — BMI from weight(kg) and height(m)
+### BMI Calculator — BMI from weight(kg) and height(m)
 Folder: BMI/
 
-Even–Odd Identifier — tells if a number is even or odd
+### Even–Odd Identifier — tells if a number is even or odd
 Folder:Even Odd Identifier/
 
-Random Number Game — guess the number in a range
+### Random Number Game — guess the number in a range
 Folder: Random Number guessing/
 
-LCM Calculator — least common multiple of two numbers
+### LCM Calculator — least common multiple of two numbers
 Folder: LCM Calculator/
 
-How to Run Any Project ❔
+### Random password generator 
+It generates a random number using uppercase, lowercase letters and numbers and special characters 
+
+
+### How to Run Any Project ❔
 Go Desktop
 Open a terminal
 cd into the project folder
