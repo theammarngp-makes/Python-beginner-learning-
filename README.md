@@ -30,6 +30,8 @@ Folder: LCM Calculator/
 ### Random password generator 
 It generates a random number using uppercase, lowercase letters and numbers and special characters 
 
+### Rock Paper Scissors 
+Select rock,paper,or scissors with computer 
 
 ### How to Run Any Project ❔
 Go Desktop
@@ -87,6 +89,7 @@ lcm_calculator.py
 
 README.md
 
+Rock_Paper_Scissors/Rock_paper_scissors 
 
 For your Contribution in Beginner‑friendly project you are welcome.
 
