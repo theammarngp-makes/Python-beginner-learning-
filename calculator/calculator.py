@@ -7,13 +7,13 @@ operetions = input("Choose any operetions (/,*,+,-): ")
 #adding conditionals 
 
 if operetions == '+':
-print("Result:", a + b)
+    print("Result:", a + b)
 
 elif operetions == '-':
-print ('Result:', a-b)
+    print ('Result:', a-b)
 
 elif operetions == '':
-print ('Result:', ab)
+    print ('Result:', a*b)
 
 elif operetions == '/':
-print ('Result:' , a/b )
+    print ('Result:' , a/b )
