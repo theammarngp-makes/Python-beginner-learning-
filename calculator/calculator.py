@@ -2,18 +2,22 @@
 #Input from the user
 a = float(input("Enter first number: "))
 b = float(input("Enter second number: "))
-operetions = input("Choose any operetions (/,*,+,-): ")
+#Selecting operation
+operations = input("Choose any operetions (/,*,+,-): ")
 
 #adding conditionals 
-
-if operetions == '+':
+#For addition
+if operations == '+':
     print("Result:", a + b)
 
-elif operetions == '-':
+#For substraction
+elif operations == '-':
     print ('Result:', a-b)
-
-elif operetions == '':
+#For multiplication
+elif operations == '':
     print ('Result:', a*b)
-
-elif operetions == '/':
+#For division
+elif operations == '/':
     print ('Result:' , a/b )
+else :
+    print("You choosed invalid operation!!!!")
