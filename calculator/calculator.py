@@ -6,14 +6,14 @@ operetions = input("Choose any operetions (/,*,+,-): ")
 
 #adding conditionals 
 
-if operetions == '+':
+if operations == '+':
     print("Result:", a + b)
 
-elif operetions == '-':
+elif operations == '-':
     print ('Result:', a-b)
 
-elif operetions == '':
+elif operations == '':
     print ('Result:', a*b)
 
-elif operetions == '/':
+elif operations == '/':
     print ('Result:' , a/b )
